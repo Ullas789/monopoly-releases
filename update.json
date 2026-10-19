@@ -1,8 +1,8 @@
 {
-  "versionCode": 105,
-  "versionName": "2.4.5",
-  "url": "https://github.com/Ullas789/monopoly-releases/releases/download/v2.4.5/monopoly-2.4.5.apk",
-  "sha256": "31d4d923a64d01f79a24ba8f939086a1f3a42dc5dad7cecfa2f33c78b8c1821f",
-  "notes": "Android release: build the web app from the repo root, as start.sh does",
-  "publishedAt": "2026-10-13T18:12:50.876Z"
+  "versionCode": 106,
+  "versionName": "2.4.6",
+  "url": "https://github.com/Ullas789/monopoly-releases/releases/download/v2.4.6/monopoly-2.4.6.apk",
+  "sha256": "bfb262f6bd5fe3f0702a2cd83a71bc0586f3717f9e1164b4f3aefa65e21ca1a1",
+  "notes": "Play online: rooms with friends on their own phones and browsers",
+  "publishedAt": "2026-10-19T15:05:41.467Z"
 }
