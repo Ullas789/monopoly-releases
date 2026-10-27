@@ -1,8 +1,8 @@
 {
-  "versionCode": 106,
-  "versionName": "2.4.6",
-  "url": "https://github.com/Ullas789/monopoly-releases/releases/download/v2.4.6/monopoly-2.4.6.apk",
-  "sha256": "bfb262f6bd5fe3f0702a2cd83a71bc0586f3717f9e1164b4f3aefa65e21ca1a1",
-  "notes": "Play online: rooms with friends on their own phones and browsers",
-  "publishedAt": "2026-10-19T15:05:41.467Z"
+  "versionCode": 107,
+  "versionName": "2.5.7",
+  "url": "https://github.com/Ullas789/monopoly-releases/releases/download/v2.5.7/monopoly-2.5.7.apk",
+  "sha256": "92cbb72884f6af3f34a71363bfe1621e403341fe2d5076655162b74aa89f5551",
+  "notes": "Turns pass by themselves, rent and salary pop-ups, local rooms on Wi-Fi",
+  "publishedAt": "2026-10-27T03:01:20.709Z"
 }
