@@ -1,8 +1,8 @@
 {
-  "versionCode": 107,
-  "versionName": "2.5.7",
-  "url": "https://github.com/Ullas789/monopoly-releases/releases/download/v2.5.7/monopoly-2.5.7.apk",
-  "sha256": "92cbb72884f6af3f34a71363bfe1621e403341fe2d5076655162b74aa89f5551",
-  "notes": "Turns pass by themselves, rent and salary pop-ups, local rooms on Wi-Fi",
-  "publishedAt": "2026-10-27T03:01:20.709Z"
+  "versionCode": 108,
+  "versionName": "2.6.8",
+  "url": "https://github.com/Ullas789/monopoly-releases/releases/download/v2.6.8/monopoly-2.6.8.apk",
+  "sha256": "08050893de255d2edc30818e353b2e41241ba84eeba8d324c199a67c4d2c7d13",
+  "notes": "Monopoly Vault: new logo and name, dice that drop into the board, late joiners take over a computer seat, remove a player mid-game",
+  "publishedAt": "2026-10-28T04:49:26.560Z"
 }
