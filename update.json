@@ -1,8 +1,8 @@
 {
-  "versionCode": 108,
-  "versionName": "2.6.8",
-  "url": "https://github.com/Ullas789/monopoly-releases/releases/download/v2.6.8/monopoly-2.6.8.apk",
-  "sha256": "08050893de255d2edc30818e353b2e41241ba84eeba8d324c199a67c4d2c7d13",
-  "notes": "Monopoly Vault: new logo and name, dice that drop into the board, late joiners take over a computer seat, remove a player mid-game",
-  "publishedAt": "2026-10-28T04:49:26.560Z"
+  "versionCode": 109,
+  "versionName": "2.7.9",
+  "url": "https://github.com/Ullas789/monopoly-releases/releases/download/v2.7.9/monopoly-2.7.9.apk",
+  "sha256": "ce923f662ebede0493d4db22cad9557f96016e62fb7d5983cde96d01d0040fec",
+  "notes": "Monopoly Vault 2.7: new light and Slate dark look, New game in three steps, trades side by side with notes, money after its animation",
+  "publishedAt": "2026-11-02T03:26:29.600Z"
 }
