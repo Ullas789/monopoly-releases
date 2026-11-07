@@ -1,8 +1,8 @@
 {
-  "versionCode": 109,
-  "versionName": "2.7.9",
-  "url": "https://github.com/Ullas789/monopoly-releases/releases/download/v2.7.9/monopoly-2.7.9.apk",
-  "sha256": "ce923f662ebede0493d4db22cad9557f96016e62fb7d5983cde96d01d0040fec",
-  "notes": "Monopoly Vault 2.7: new light and Slate dark look, New game in three steps, trades side by side with notes, money after its animation",
-  "publishedAt": "2026-11-02T03:26:29.600Z"
+  "versionCode": 110,
+  "versionName": "2.8.10",
+  "url": "https://github.com/Ullas789/monopoly-releases/releases/download/v2.8.10/monopoly-2.8.10.apk",
+  "sha256": "0ad18a2443cab3f739f484efe1a7922c8fc2ec1f520e311951f541f41a06a511",
+  "notes": "Monopoly Vault 2.8: Built by U signature on the opening screen, one profile, card editor guide, no auction timer by default, starting cash from the board's prices, the keyboard no longer hides the trade note",
+  "publishedAt": "2026-11-07T11:19:16.987Z"
 }
